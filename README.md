@@ -10,8 +10,9 @@
   <br />
   The common categorization is following the <b>Category / Type / Size / Item</b> structure.</p>
 
-<hr />
 <img src="https://github.com/sg1asgard/northstarui/blob/master/components-groups.png" />
+
+<hr />
 <img src="https://github.com/sg1asgard/northstarui/blob/master/responsive-components.png" />
 <img src="https://github.com/sg1asgard/northstarui/blob/master/items-states.png" />
 <img src="https://github.com/sg1asgard/northstarui/blob/master/icons-options.png" />
