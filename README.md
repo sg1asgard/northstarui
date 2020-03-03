@@ -7,12 +7,12 @@
 
 ### Install and Requirements
 <ul>
-  <li><strong>NSui_Bootstrap_v01.fig</strong> / main components Figma file</li>
-  <li><strong>NSui_Styles_v01.fig</strong> / component styles Figma file</li>
-  <li><strong><a href="https://fontawesome.com/" target="_blank">FontAwesome</a></strong> / component styles Figma file</li>
-  <li><strong>NSui_Styles_v01.fig</strong> / component styles Figma file</li>
-  <li><strong>NSui_Styles_v01.fig</strong> / component styles Figma file</li>
-  <li><strong>NSui_Styles_v01.fig</strong> / component styles Figma file</li>
+  <li><strong><a href="https://github.com/sg1asgard/northstarui/blob/master/NSui_Bootstrap_v01.fig">NSui_Bootstrap_v01.fig</a></strong> / main components Figma file</li>
+  <li><strong><a href="https://github.com/sg1asgard/northstarui/blob/master/NSui_Styles_v01.fig">NSui_Styles_v01.fig</a></strong> / component styles Figma file</li>
+  <li><strong><a href="https://fontawesome.com/">FontAwesome</a></strong></li>
+  <li><strong><a href="https://material.io/tools/icons/">Material Icons</a></strong></li>
+  <li><strong><a href="https://fonts.google.com/specimen/Roboto">Roboto free font</a></strong></li>
+  <li><strong><a href="https://fonts.google.com/specimen/Open+Sans">Open Sans free font</a></strong></li>
 </ul>
 
 ### Categorized Components
