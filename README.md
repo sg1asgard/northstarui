@@ -1,2 +1,2 @@
-# northstarui
-Bootstrap UI components for Figma.
+# NorthStar UI
+### Bootstrap UI components for Figma.
