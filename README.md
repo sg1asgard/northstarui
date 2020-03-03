@@ -14,7 +14,10 @@
   <li><strong><a href="https://fonts.google.com/specimen/Roboto">Roboto free font</a></strong></li>
   <li><strong><a href="https://fonts.google.com/specimen/Open+Sans">Open Sans free font</a></strong></li>
 </ul>
+<br />
+<br />
 
+<hr />
 ### Categorized Components
 <p>All items are categorized and structured. Easy to find, add and change what you need on the fly.
   <br />
