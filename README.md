@@ -5,6 +5,16 @@
 <img src="https://github.com/sg1asgard/northstarui/blob/master/demo-asset-header2.png" />
 <hr />
 
+### Install and Requirements
+<ul>
+  <li><strong>NSui_Bootstrap_v01.fig</strong> / main components Figma file</li>
+  <li><strong>NSui_Styles_v01.fig</strong> / component styles Figma file</li>
+  <li><strong><a href="https://fontawesome.com/" target="_blank">FontAwesome</a></strong> / component styles Figma file</li>
+  <li><strong>NSui_Styles_v01.fig</strong> / component styles Figma file</li>
+  <li><strong>NSui_Styles_v01.fig</strong> / component styles Figma file</li>
+  <li><strong>NSui_Styles_v01.fig</strong> / component styles Figma file</li>
+</ul>
+
 ### Categorized Components
 <p>All items are categorized and structured. Easy to find, add and change what you need on the fly.
   <br />
