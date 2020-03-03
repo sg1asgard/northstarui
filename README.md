@@ -1,6 +1,9 @@
 <img src="https://github.com/sg1asgard/northstarui/blob/master/logo-nsui-v2.svg" height="64" alt="NorthStarUI" />
 <h2>Bootstrap UI components for Figma.</h2>
 
+<p>NorthStar UI works with Figma design software and it is based on Bootstrap CSS library. Just download, install and immediately use.<br />
+  You can quickly do Prototypes and Mockups fast and pixel perfect.
+</p>
 
 <img src="https://github.com/sg1asgard/northstarui/blob/master/demo-asset-header2.png" />
 <hr />
@@ -18,6 +21,7 @@
 <br />
 
 <hr />
+
 ### Categorized Components
 <p>All items are categorized and structured. Easy to find, add and change what you need on the fly.
   <br />
